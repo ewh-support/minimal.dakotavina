@@ -497,7 +497,8 @@ width:23%;
 padding:15px 0 0 3%;
 }
 .navbar_home_link img{
-max-width:20%;
+max-width:30%;
+margin: -10 0 0px 10
 }
 .navbar_page_center{
 width:50%;
@@ -505,7 +506,8 @@ float:left;
 line-height:50px;
 text-align:center;
 color:#FFFFFF;
-font-size:18px;
+font-size:28px;
+margin: 5 0 20px 0
 }
 /* 5.1 FOOTER TOOLBAR */
 ul.toolbar_icons{
@@ -686,10 +688,11 @@ margin:0px;
 }
 ul.features_list li span{
 display:inline-block;
-max-width:90%;
-padding:5px 0 0 10%;
+max-width:100%;
+padding:18px 0 0 10%;
 font-weight:700;
 float:left;
+font-size: 25px;
 }
 
 
