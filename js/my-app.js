@@ -127,8 +127,7 @@ $$(document).on('pageInit', function (e) {
 	  page.name === 'trang-chu-so-tay')
   {
     if (localStorage.loggedIn) {
-		myApp.alert("Chào mừng bạn Đã Đăng Nhập với id: " + localStorage["userId"] )
-		// $$('#menu-defaut').hide(); 
+	
     }else {
 	//  $$('#menu-logged').hide(); 
       console.log('Not yet')
